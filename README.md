@@ -1,5 +1,5 @@
 # door&show
-Very simple JavaScript script for hide and unhide buttons or whatever you like to use.
+Very simple JavaScript script for hide and unhide buttons or whatever you like to use doing mouseover.
 
 ## How to use it?
 Just set IDs to any object or container in your HTML file following these points
